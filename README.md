@@ -1,8 +1,32 @@
-# Getting Started with Create React App
+# About The Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Product List Application Using :
 
-## Available Scripts
+  * [React JS](https://reactjs.org/)^17.0.2
+  * [Material-UI](https://mui.com/) ^5.2.8
+  * [Fake Store API](https://fakestoreapi.com/)
+
+
+![image](https://user-images.githubusercontent.com/68668646/149683790-03877aa0-6129-4576-9fb5-fd448ea735aa.png)
+
+
+## Deployed In
+
+<a href="https://app.netlify.com/sites/make-a-readme/deploys" rel="nofollow"><img src="https://camo.githubusercontent.com/047b2905ee4cf09ba97ba0bd75feedcce3b1de97a717016ac97d9c52e9a0d168/68747470733a2f2f6170692e6e65746c6966792e636f6d2f6170692f76312f6261646765732f36383939326431632d333664342d346138342d623137372d3030633166363466626362342f6465706c6f792d737461747573" alt="Netlify Status" data-canonical-src="https://api.netlify.com/api/v1/badges/68992d1c-36d4-4a84-b177-00c1f64fbcb4/deploy-status" style="max-width: 100%;"></a>
+* [Project Link](https://video-games-app.netlify.app/)
+
+## Installation
+
+1. Clone the repo
+```sh
+git clone https://github.com/AoussarElMehdi/product-list-app.git
+```
+2. Install NPM packages
+```sh
+npm install
+```
+
+## Getting Started
 
 In the project directory, you can run:
 
@@ -39,32 +63,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
